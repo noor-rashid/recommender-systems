@@ -60,4 +60,4 @@ joblib
 
 ## Blog Posts
 
-Detailed explanations of the implementations are available on the [project site](https://noor-rashid.github.io/noor-rashid-portfolio/projects/recommender-system/).
+Detailed explanations of the implementations are available on the [project site](https://github.com/noor-rashid/noor-rashid-portfolio/tree/main/projects/recommender-system).
